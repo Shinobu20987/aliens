@@ -1,0 +1,35 @@
+body{
+    background: rgb(217, 147, 217);
+    
+  font-family: "Dancing Script", cursive;
+color: darkmagenta;
+
+}
+.header_div{
+    background: white;
+    color: blue;
+    font-size: 40px;
+}
+.header_div p{
+    color: chartreuse;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: cornsilk;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(186, 97, 186);
+}
